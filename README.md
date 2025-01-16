@@ -59,7 +59,4 @@ Our goal is to recommend dishes they like based on the ingredients available to 
 
 ---
 
-## 🤝 Contribution
-Feel free to fork this repository and submit pull requests for improvements or new features!
-
 ---
