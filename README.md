@@ -3,7 +3,7 @@
 
 Many people, when only a few ingredients are available in their homes, don’t think it is possible to make a dish they like or even any dish at all. Hence, they often turn to ordering food online.
 
-Our goal is to recommend dishes they like based on the ingredients available to them. This system aims to encourage users to choose homemade food over restaurant-made food while introducing them to new recipes and cuisines.
+Goal is to recommend dishes they like based on the ingredients available to them. This system aims to encourage users to choose homemade food over restaurant-made food while introducing them to new recipes and cuisines.
 
 ---
 
